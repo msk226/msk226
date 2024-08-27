@@ -24,6 +24,8 @@
 ![](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
+### ABOUT ME
+
 <p align="center">
 <a href="https://www.linkedin.com/in/minseok-kim-571b9b324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nmdkims" height="30" width="40" /></a>
 </p>
