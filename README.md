@@ -26,7 +26,7 @@
             </div>
         </section>
         <section>
-            <h3 align="center">ABOUT ME</h3>
+            <h3 align="center">About Me</h3>
           <div align="center">
             <a href="https://velog.io/@alstjrzla">
                 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt="Velog Badge">
@@ -37,7 +37,7 @@
           </div>
         </section>
         <section align="center">
-            <h3 >GITHUB STAT</h3>
+            <h3 >Github Stat</h3>
             <img src="https://github-readme-stats.vercel.app/api?username=msk226&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
         </section>
     </div>
