@@ -9,12 +9,12 @@
         <header>
             <h2 align="center">아무리 힘든 일이라도, 오히려 성장의 기회로 여겨 끝까지 마무리 해냅니다.</h2>
             <h3 align="center">매일 성장하는 개발자, 김민석입니다.</h3>
-          <br>
+<!--           <br>
           <div align="center">
             <a href="https://hits.seeyoufarm.com">
                 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmsk226%2Fhit-counter&count_bg=%23353D43&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits Badge">
             </a>
-          </div>
+          </div> -->
         </header>
         <section>
             <h3 align="center">Main Stack</h3>
