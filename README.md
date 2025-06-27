@@ -8,7 +8,11 @@
     <div class="container">
         <header>
             <h2 align="center">아무리 힘든 일이라도, 오히려 성장의 기회로 여겨 끝까지 마무리 해냅니다.</h2>
-            <h3 align="center">매일 성장하는 개발자, 김민석입니다.</h3>
+            <h3 align="center">매일 성장하는 개발자, 김민석입니다.</h3><p align="center">
+  <a href="https://hits.sh/github.com/msk226/">
+    <img alt="Hits" src="https://hits.sh/github.com/msk226.svg?color=74c20c" />
+  </a>
+</p>
 <!--           <br>
           <div align="center">
             <a href="https://hits.seeyoufarm.com">
